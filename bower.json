@@ -1,0 +1,39 @@
+{
+  "name": "angular-schema-form-range-slider",
+  "main": [
+    "angular-schema-form-range-slider.js"
+  ],
+  "authors": [
+    "James Guthrie <james@prodigi.ch>"
+  ],
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "angular-schema-form-add-on",
+    "angular-schema-form",
+    "schema-form",
+    "form",
+    "json",
+    "json-schema",
+    "schema",
+    "add-on",
+    "range-slider"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "coverage"
+  ],
+  "dependencies": {
+    "angular-schema-form": ">= 0.7",
+    "angularjs-slider": "^4.0.2"
+  },
+  "devDependencies": {
+    "angular-schema-form": ">= 0.7",
+    "angular-mocks": ">= 1.2"
+  }
+}
