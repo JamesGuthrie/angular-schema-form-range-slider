@@ -11,6 +11,12 @@ The easiest way is to install is with bower, this will also include dependencies
 bower install angular-schema-form-range-slider
 ```
 
+You will also have to install angularjs-slider as a dependency
+
+```bash
+bower install --save angularjs-slider
+```
+
 Further you will have to add a dependency on `rzModule` in your angular application:
 
 ```javascript
